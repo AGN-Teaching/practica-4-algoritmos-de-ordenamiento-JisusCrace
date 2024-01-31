@@ -1,1 +1,15 @@
-# Práctica 4: Algoritmos de ordenamiento
+![UAM](https://github.com/AGN-Teaching/practica-2-relaciones-entre-clases-JisusCrace/assets/125590988/66b9e2b2-8202-4ad9-8b0a-e16389fd5e43)
+
+## PRÁCTICA 4: ALGORITMOS DE ORDENAMIENTO
+
+*CARRERA: INGENIERÍA EN COMPUTACIÓN*
+
+*MATERIA: PROGRAMACIÓN ORIENTADA A OBJETOS*
+
+*ALUMNO: RAMIREZ AGUILERA JESUS EMMANUEL 2223068873*
+
+*DOCENTE: ABEL GARCÍA NÁJERA*
+
+## ANÁLISIS DEL PROBLEMA
+
+Para esta práctica 4, 
