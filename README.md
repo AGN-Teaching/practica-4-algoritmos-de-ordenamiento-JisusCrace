@@ -12,7 +12,7 @@
 # *DOCENTE: ABEL GARCÍA NÁJERA*
 
 
-## *ANÁLISIS DEL PROBLEMA*
+# *ANÁLISIS DEL PROBLEMA*
 
 Para esta práctica 4, 
 
