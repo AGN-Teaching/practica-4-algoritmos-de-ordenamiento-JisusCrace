@@ -9,8 +9,8 @@
 
 ### *MATERIA: ESTRUCTURA DE DATOS LINEALES*
 
-### *ALUMNO: RAMIREZ AGUILERA JESUS EMMANUEL *
-### * MATRICULA : 2223068873 * 
+### *ALUMNO: RAMIREZ AGUILERA JESUS EMMANUEL*
+### *MATRICULA : 2223068873* 
 ### *DOCENTE: ABEL GARCÍA NÁJERA*
 -------------------------------------------
 
@@ -39,9 +39,22 @@ Observando los resultados, se destacan algunas tendencias interesantes. En los c
 La eficiencia de merge sort y quicksort se destaca especialmente en arreglos de gran tamaño, confirmando su superioridad teórica en términos de tiempo de ejecución. Sin embargo, es crucial tener en cuenta que estos resultados pueden variar según la implementación y las características específicas de la máquina utilizada.
 
 ## Gráficos de Rendimiento:
+![Promedio](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-JisusCrace/assets/125590988/79ac632a-2b33-488d-9dcd-d38fb062bf7b)
 
-Se adjuntan gráficos que visualizan la eficiencia de cada algoritmo en función del tamaño del arreglo. Estas representaciones gráficas ofrecen una comprensión más intuitiva de las diferencias de rendimiento y permiten identificar patrones o puntos de inflexión en el comportamiento de los algoritmos.
+![Desviacion](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-JisusCrace/assets/125590988/207f972d-2b3d-4a84-97f6-f1e2be866db4)
 
+
+Se adjuntan gráficos que visualizan la eficiencia de cada algoritmo en función del tamaño del arreglo. Estas representaciones gráficas ofrecen una comprensión más intuitiva de las diferencias de rendimiento y permiten identificar patrones o puntos de inflexión en el comportamiento de los algoritmos. (Eje X (Horizontal): Representa el tamaño del arreglo (n) y Eje Y (Vertical): Muestra el tiempo promedio de ejecución en una escala logarítmica para abarcar rangos 
+amplios de valores.)
+Con respecto a insert sort, selection sort y bubblesort se observa un crecimiento exponencial en los tiempos de ejecución a medida que el tamaño del arreglo aumenta, reflejando la complejidad cuadrática de estos algoritmos.Mientras que con merge sort y quick sort Se ve un crecimiento más controlado y gradual en los tiempos de ejecución, demostrando la eficiencia  de estos algoritmos.  
 
 # :trophy: *CONCLUSIONES*  
 
+La experimentación con algoritmos de ordenamiento revela que, a medida que el tamaño del arreglo aumenta, la eficiencia de los algoritmos cuadráticos se ve superada por los algoritmos de complejidad 
+, como merge sort y quicksort. En particular, estos dos algoritmos demuestran superioridad en términos de tiempo de ejecución, confirmando su reputación teórica.
+
+Bubble sort, con su complejidad cuadrática, muestra ineficiencia incluso en arreglos pequeños, y su rendimiento es superado por otros algoritmos.
+
+Los resultados experimentales validan las complejidades teóricas conocidas de los algoritmos. La elección del algoritmo debe considerar el tamaño del arreglo y las características específicas del conjunto de datos.
+
+En conclusión, para conjuntos de datos extensos, merge sort y quicksort son opciones preferibles, respaldando la toma de decisiones informada en aplicaciones prácticas que involucren ordenamiento.
