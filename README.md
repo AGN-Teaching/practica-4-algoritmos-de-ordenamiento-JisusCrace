@@ -1,7 +1,7 @@
 ![logo-uam](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-JisusCrace/assets/125590988/193089ae-92be-49bb-b1c7-85aed94e956d)
 
 
-### *PRÁCTICA 4: ALGORITMOS DE ORDENAMIENTO*
+## *PRÁCTICA 4: ALGORITMOS DE ORDENAMIENTO*
 
 # *CARRERA: INGENIERÍA EN COMPUTACIÓN*
 
