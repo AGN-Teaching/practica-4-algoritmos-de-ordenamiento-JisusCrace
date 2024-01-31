@@ -11,6 +11,11 @@
 
 *DOCENTE: ABEL GARCÍA NÁJERA*
 
+![Logo_UAMC](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-JisusCrace/assets/125590988/b5982146-dd5f-4de9-9264-fa389142d033)
+
+
+
+
 ## ANÁLISIS DEL PROBLEMA
 
 Para esta práctica 4, 
